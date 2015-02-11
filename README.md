@@ -1,6 +1,8 @@
 # vsec
 
-WAF bypassing prevention with session ID authorization key
+WAF : Sucuri
 
-*Session Token*
-*CSRF protection*
+Include Auth.php script to login.php and logout.php
+
+# *Session Token*
+#*CSRF protection*
